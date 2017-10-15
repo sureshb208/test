@@ -6,7 +6,7 @@ public class sample {
 		System.out.println(s);
 		int i = s.hashCode();
 		System.out.println(i);
-		
+		System.err.println(s.toString());
 		
 	}
 
